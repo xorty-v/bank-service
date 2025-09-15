@@ -1,0 +1,7 @@
+target
+.git
+.gitignore
+.DS_Store
+node_modules
+.idea
+.vscode
